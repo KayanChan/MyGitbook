@@ -1,12 +1,16 @@
 # 在Vue中使用less
 
+@2019-03-13
+
+@(Vue教程)[Vue|Less]
+
 1. 安装依赖
 
    ```javascript
    npm install less less-loader --save
    ```
 
-2. 修改`webpack.base.config.js`文件，配置loader加载依赖，让其支持外部的less
+2. 修改`webpack.base.conf.js`文件，配置loader加载依赖，让其支持外部的less
 
    在原来的代码上添加：
 
