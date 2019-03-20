@@ -10,3 +10,4 @@
 
 * [在Vue中使用vuex](Vue-use-vuex/README.md)
 
+* [在Vue中使用fontawesome](Vue-use-fontawesome/README.md)
