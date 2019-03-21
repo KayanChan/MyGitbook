@@ -6,7 +6,7 @@
 
 1. 安装插件
 
-   ```
+   ```bash
    npm i svg-sprite-loader --save
    ```
 
@@ -85,7 +85,7 @@
 
 4. 修改`webpack.base.conf.js`文件，配置loader加载依赖
 
-   ```
+   ```javascript
    {
      test: /\.svg$/,
      loader: 'svg-sprite-loader',
@@ -98,7 +98,7 @@
 
 5. 在`webpack.base.conf.js`中的`url-oader`配置添加
 
-   ```
+   ```javascript
    {
      test: /\.(png|jpe?g|gif|svg)(\?.*)?$/,
      loader: 'url-loader',
@@ -116,7 +116,7 @@
 
    > 注意使用字符串`'form'`
 
-   ```
+   ```javascript
     <svg-icon  :icon-class="'form'"></svg-icon>
    ```
 

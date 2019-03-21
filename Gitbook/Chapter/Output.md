@@ -6,10 +6,16 @@
 
 执行`gitbook serve`默认将生成的静态网站输出到 _book 目录并运行服务器
 
-```javascript
+```bash
 Starting server ...
 Serving book on http://localhost:4000
 ```
 
-指定端口`gitbook serve --port 2333`
+指定端口
+
+```bash
+gitbook serve --port 2333
+```
+
+
 

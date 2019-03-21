@@ -6,7 +6,7 @@
 
 1. 安装fontawesome
 
-   ```
+   ```bash
    npm i --save @fortawesome/fontawesome
    npm i --save @fortawesome/vue-fontawesome
    npm i --save @fortawesome/fontawesome-svg-core
@@ -16,7 +16,7 @@
 
 2. 安装fontawesome样式依赖
 
-   ```
+   ```bash
    npm i --save @fortawesome/fontawesome-free-solid
    npm i --save @fortawesome/fontawesome-free-regular
    npm i --save @fortawesome/fontawesome-free-brands

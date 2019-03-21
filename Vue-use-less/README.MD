@@ -6,7 +6,7 @@
 
 1. 安装依赖
 
-   ```javascript
+   ```bash
    npm install less less-loader --save
    ```
 

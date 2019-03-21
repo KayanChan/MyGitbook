@@ -18,6 +18,11 @@ GitBook 是基于 Node.js
 
 * 安装[Nodejs环境](<https://nodejs.org/en/download/>)
 
-* 全局安装Gitbook
+* 全局安装Gitbook 
 
-  `npm install -g gitbook-cli`
+  ```bash
+  npm install -g gitbook-cli
+  ```
+
+  
+

@@ -12,3 +12,5 @@
 
 * [在Vue中使用fontawesome](https://github.com/KayanChan/MyGitbook/blob/master/Vue-use-fontawesome/README.md)
 
+* [在Vue中使用全局less变量](https://github.com/KayanChan/MyGitbook/blob/master/Vue-use-global-less-variables/README.md)
+
