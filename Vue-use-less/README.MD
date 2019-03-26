@@ -21,6 +21,8 @@
 }
 ```
 
+**新版本的vue-cli已经把less-loader配置好了，放在了util.js里面。故无需在`webpack.base.config.js`配置了，否则重复了，只需要安装依赖即可**
+
 3. 使用的时候在`style`标签里加上`lang=”less”`里面就可以写less的代码
 
    ```vue
