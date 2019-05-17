@@ -3,6 +3,7 @@
 
 ### 工具教程
 * [Gitbook入门教程](https://github.com/KayanChan/MyGitbook/blob/master/Gitbook/README.md)
+* [调试神器Whistle入门教程](https://github.com/KayanChan/MyGitbook/blob/master/Whistle/README.md)
 
 ### Vue教程
 * [在vue中使用less](https://github.com/KayanChan/MyGitbook/blob/master/Vue-use-less/README.md)
