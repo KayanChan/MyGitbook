@@ -80,9 +80,18 @@ www.example.com file:///User/test/dirOrFile
 #### 通过在pc上通过weinre修改网页的DOM结构及其样式,调试远程页面
 # m.baidu.com weinre://test
 
+#### 修改跨域请求cors
+# http://www.xxxx.com/libs/ D:\wamp\www\libs\ resCors://*
+
 #### 捕获日志
 # m.baidu.com log://
 ```
 
 > HTTPS、Websocket需要开启HTTPS拦截才可以正常抓包及使用所有匹配模式
+
+
+
+##### 协议列表
+
+[可根据对应功能来找对应的配置匹配](http://wproxy.org/whistle/rules/index.html)
 
