@@ -18,5 +18,5 @@
 
 ### 知识点拓展
 
-* [OAuth2.0](https://github.com/KayanChan/MyGitbook/blob/master/OAuth2.0/README.md)
+* [OAuth2.0](https://github.com/KayanChan/MyGitbook/blob/master/OAuth%202.0/README.md)
 
