@@ -36,7 +36,7 @@
 
 ### 示例
 
-```flow
+```mermaid
 st=>start: A获取授权，向B申请授权
 
 e1=>end: A申请授权成功，获取B的数据
