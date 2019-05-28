@@ -4,6 +4,7 @@
 ### 工具教程
 * [Gitbook入门教程](https://github.com/KayanChan/MyGitbook/blob/master/Gitbook/README.md)
 * [调试神器Whistle入门教程](https://github.com/KayanChan/MyGitbook/blob/master/Whistle/README.md)
+* [Markdown-流程图](https://github.com/KayanChan/MyGitbook/blob/master/Markdown-FlowChart/README.md)
 
 ### Vue教程
 * [在vue中使用less](https://github.com/KayanChan/MyGitbook/blob/master/Vue-use-less/README.md)
@@ -14,4 +15,8 @@
 * [在Vue中使用fontawesome](https://github.com/KayanChan/MyGitbook/blob/master/Vue-use-fontawesome/README.md)
 
 * [在Vue中使用全局less变量](https://github.com/KayanChan/MyGitbook/blob/master/Vue-use-global-less-variables/README.md)
+
+### 知识点拓展
+
+* [OAuth2.0](https://github.com/KayanChan/MyGitbook/blob/master/OAuth2.0/README.md)
 
