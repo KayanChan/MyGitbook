@@ -241,3 +241,9 @@ git checkout -- <filename>
     git commit -m '初始化git项目'
     git push --set-upstream origin master
     ```
+    
+### 切换账号
+    ```
+    git config --global user.name "Your_username"
+    git config --global user.email "Your_email"
+    ```
