@@ -146,7 +146,12 @@ git reset HEAD <filename>
 ##### 版本回退（文件已经`git commit`）
 
 ```bash
+git log --pretty=oneline
+
 git reset --hard HEAD^
+
+// 回退后，本地版本落后远程仓库，需要强推到远程仓库
+git push -f
 ```
 
 > git reset --hard HEAD^ 回退上一个版本
