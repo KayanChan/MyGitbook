@@ -5,6 +5,7 @@
 * [Gitbook入门教程](https://github.com/KayanChan/MyGitbook/blob/master/Gitbook/README.md)
 * [调试神器Whistle入门教程](https://github.com/KayanChan/MyGitbook/blob/master/Whistle/README.md)
 * [Markdown-流程图](https://github.com/KayanChan/MyGitbook/blob/master/Markdown-FlowChart/README.md)
+* [MarkdownReference-推荐写法](https://github.com/KayanChan/MyGitbook/blob/master/MarkdownReference/README.md)
 * [npm 本地安装 VS 全局安装](https://github.com/KayanChan/MyGitbook/blob/master/npm-yarn/npm-local-vs-global.md)
 
 ### Vue教程
